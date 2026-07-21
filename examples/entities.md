@@ -1,0 +1,3 @@
+# Entities
+
+Document exposed entities.
